@@ -1,6 +1,6 @@
 ### Hi there, I'm Taha 👋
 
-Connect Me: tahagulboi@gmail.com
+Contact to Me: tahagulboi@gmail.com
 
 My Skills
 
