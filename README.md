@@ -9,7 +9,7 @@ Game Development
 [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
 Back End
-[![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,python,django)](https://skillicons.dev)
 
 <!--
 **jeenklynn/jeenklynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
