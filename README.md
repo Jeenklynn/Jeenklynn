@@ -1,5 +1,7 @@
 ### Hi there, I'm Taha 👋
 
+Connect Me: tahagulboi@gmail.com
+
 My Skills
 
 Game Development Skills <br /> <br />
@@ -9,7 +11,7 @@ Front End Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ps,bootstrap,)](https://skillicons.dev)
 
 Back End Skills <br /> <br />
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,python,django,nodejs)](https://skillicons.dev)
 
 I'm Currently Learning <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,react,vue)](https://skillicons.dev)
