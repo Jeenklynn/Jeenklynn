@@ -3,7 +3,7 @@
 My Skills
 
 Front End Skills <br /> <br />
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ps)](https://skillicons.dev)
 
 Game Development Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
@@ -11,8 +11,7 @@ Game Development Skills <br /> <br />
 Back End Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,django)](https://skillicons.dev)
 
-<!--
-**jeenklynn/jeenklynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **jeenklynn/jeenklynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
