@@ -3,7 +3,7 @@
 My Skills
 
 Front End Skills <br /> <br />
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ps,bootstrap)](https://skillicons.dev)
 
 Game Development Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
