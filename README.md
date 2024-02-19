@@ -16,7 +16,7 @@ Back End Skills <br /> <br />
 I'm Currently Learning <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,react,vue)](https://skillicons.dev)
 
-Full Stack Projects <br /> <br />
+Full Stack Projects <br />
 
 - https://github.com/jeenklynn/member-tracking-system
 - https://github.com/jeenklynn/portfolio
