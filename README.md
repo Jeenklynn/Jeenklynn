@@ -2,10 +2,13 @@
 
 My Skills
 
+Front End
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
 
+Game Development
 [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
+Back End
 [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
 
 <!--
