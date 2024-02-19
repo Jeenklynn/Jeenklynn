@@ -6,7 +6,7 @@ Game Development Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
 Front End Skills <br /> <br />
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ps,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ps)](https://skillicons.dev)
 
 Back End Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,django)](https://skillicons.dev)
