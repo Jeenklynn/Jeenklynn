@@ -15,6 +15,13 @@ Back End Skills <br /> <br />
 
 I'm Currently Learning <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,react,vue)](https://skillicons.dev)
+
+Full Stack Projects <br /> <br />
+
+https://github.com/jeenklynn/member-tracking-system
+https://github.com/jeenklynn/portfolio
+https://github.com/jeenklynn/django-project
+https://github.com/jeenklynn/TrainerX
 <!-- **jeenklynn/jeenklynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
