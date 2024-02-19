@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Taha 👋
 
 My Skills
 
@@ -6,11 +6,13 @@ Game Development Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
 Front End Skills <br /> <br />
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ps,bootstrap,)](https://skillicons.dev)
 
 Back End Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,django)](https://skillicons.dev)
 
+I'm Currently Learning <br /> <br />
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,react,vue)](https://skillicons.dev)
 <!-- **jeenklynn/jeenklynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
