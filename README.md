@@ -1,6 +1,6 @@
 ### Hi there, I'm Taha 👋
 
-Contact to Me: tahagulboi@gmail.com
+Contact to Me: linktr.ee/jeenklynn 
 
 My Skills
 
