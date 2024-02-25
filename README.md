@@ -1,6 +1,6 @@
 ### Hi there, I'm Taha 👋
 
-Contact to Me: linktr.ee/jeenklynn 
+Contact to Me: https://linktr.ee/jeenklynn 
 
 My Skills
 
