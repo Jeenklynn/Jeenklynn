@@ -8,13 +8,13 @@ My Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,html,css,js,ps,bootstrap,tailwind,php,mysql,python,django,androidstudio,java,)](https://skillicons.dev)
 
 categorized; 
-Game Development Skills <br /> <br />
+Game Development Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
-Front End Skills <br /> <br />
+Front End Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ps,bootstrap,tailwind)](https://skillicons.dev)
-Back End Skills <br /> <br />
+Back End Skills
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,django)](https://skillicons.dev)
-Mobile Development Skills <br /> <br />
+Mobile Development Skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java)](https://skillicons.dev)
 
 I'm Currently Learning <br /> <br />
