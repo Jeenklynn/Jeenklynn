@@ -15,8 +15,7 @@ Front End Skills <br /> <br />
 Back End Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,django)](https://skillicons.dev)
 
-Mobile Development
-<br /> <br />
+Mobile Development Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java)](https://skillicons.dev)
 
 I'm Currently Learning <br /> <br />
