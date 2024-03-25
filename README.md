@@ -1,4 +1,4 @@
-### Hi there, I'm Taha 👋
+### Hi there, I'm Taha Gülboy 👋
 
 I'm full stack developer and computer programming student at Marmara University, I love creating things and solving problems through programming.
 I am interested in web development, game development and mobile development.
@@ -8,16 +8,12 @@ My Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,html,css,js,ps,bootstrap,tailwind,php,mysql,python,django,androidstudio,java,)](https://skillicons.dev)
 
 categorized; 
-
 Game Development Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
-
 Front End Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ps,bootstrap,tailwind)](https://skillicons.dev)
-
 Back End Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,django)](https://skillicons.dev)
-
 Mobile Development Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java)](https://skillicons.dev)
 
