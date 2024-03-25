@@ -4,8 +4,10 @@ Contact to Me: https://linktr.ee/jeenklynn
 
 
 
-My Skills
+My Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,html,css,js,ps,bootstrap,tailwind,php,mysql,python,django,androidstudio,java,)](https://skillicons.dev)
+
+categorized; 
 
 Game Development Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
