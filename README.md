@@ -2,6 +2,8 @@
 
 Contact to Me: https://linktr.ee/jeenklynn 
 
+
+
 My Skills
 
 Game Development Skills <br /> <br />
@@ -13,14 +15,13 @@ Front End Skills <br /> <br />
 Back End Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,python,django)](https://skillicons.dev)
 
+Mobile Development
+<br /> <br />
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java)](https://skillicons.dev)
+
 I'm Currently Learning <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,react,vue)](https://skillicons.dev)
 
-Full Stack Projects <br />
-
-- https://github.com/jeenklynn/member-tracking-system
-- https://github.com/jeenklynn/django-project
-- https://github.com/jeenklynn/TrainerX
 <!-- **jeenklynn/jeenklynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
