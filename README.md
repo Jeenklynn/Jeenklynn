@@ -1,8 +1,6 @@
 ### Hi there, I'm Taha 👋
 
-Contact to Me: https://linktr.ee/jeenklynn 
-
-
+I'm computer programming student at Marmara University, I love creating things and solving problems through programming.
 
 My Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,html,css,js,ps,bootstrap,tailwind,php,mysql,python,django,androidstudio,java,)](https://skillicons.dev)
