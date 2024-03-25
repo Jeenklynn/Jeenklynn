@@ -6,7 +6,7 @@ I want to improve and be successful in this thing that I have been doing as a ho
 
 My Skills <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,html,css,js,ps,bootstrap,tailwind,php,mysql,python,django,androidstudio,java,)](https://skillicons.dev)
-
+<!--
 categorized; 
 Game Development Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
@@ -20,7 +20,7 @@ Mobile Development Skills
 I'm Currently Learning <br /> <br />
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,react,vue)](https://skillicons.dev)
 
-<!-- **jeenklynn/jeenklynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **jeenklynn/jeenklynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
